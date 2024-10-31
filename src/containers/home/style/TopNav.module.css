@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+.navbar-holder{
+    display: flex;
+    justify-content: space-around;
+}
+.navbar-links{
+    list-style-type: none;
+    display: flex;
+    gap: 15px;
+}
+.logo{
+    height: 50px;
+    display: inline-block;
+}
